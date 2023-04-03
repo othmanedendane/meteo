@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/meteo/static/css/main.18c96566.css",
+    "main.js": "/meteo/static/js/main.ec25871c.js",
+    "static/media/bg.png": "/meteo/static/media/bg.d18e8af5bac65a98cd80.png",
+    "index.html": "/meteo/index.html",
+    "main.18c96566.css.map": "/meteo/static/css/main.18c96566.css.map",
+    "main.ec25871c.js.map": "/meteo/static/js/main.ec25871c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c96566.css",
+    "static/js/main.ec25871c.js"
+  ]
+}
